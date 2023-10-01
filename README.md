@@ -58,7 +58,7 @@ Open your browser and visit http://localhost:3000 to interact with the AIChatbot
 ![Summarize text](client/summarize_text.png)
 
 # Function- Generate paragraph page
-![Generate paragraph](client/generatepara.png)
+![Generate paragraph](client/generate_para.png)
 
 # Function- Chatbot page
 ![chatbot](client/jarvis.png)
